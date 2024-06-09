@@ -1,5 +1,5 @@
 using DatingAppAPI.Data;
-using DatingAppAPI.Extentions;
+using DatingAppAPI.Extensions;
 using DatingAppAPI.Middleware;
 using Microsoft.EntityFrameworkCore;
 

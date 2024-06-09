@@ -2,7 +2,7 @@
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 
-namespace DatingAppAPI.Extentions
+namespace DatingAppAPI.Extensions
 {
     public static class IdentityServiceExtensions
     {

@@ -1,4 +1,4 @@
-﻿namespace DatingAppAPI.Extentions
+﻿namespace DatingAppAPI.Extensions
 {
     public static class DateTimeExtensions
     {

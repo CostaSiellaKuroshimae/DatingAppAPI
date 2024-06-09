@@ -1,4 +1,4 @@
-﻿using DatingAppAPI.Extentions;
+﻿using DatingAppAPI.Extensions;
 using System.ComponentModel.DataAnnotations;
 
 namespace DatingAppAPI.Entities
