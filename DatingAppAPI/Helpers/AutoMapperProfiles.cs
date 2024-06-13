@@ -17,6 +17,7 @@ namespace DatingAppAPI.Helpers
 			// then Automapper will map that
 			CreateMap<Photo, PhotoDto>();
 			CreateMap<MemberUpdateDto, AppUser>();
+			CreateMap<RegisterDto, AppUser>();
 		}
 	}
 }
