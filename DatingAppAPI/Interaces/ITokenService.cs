@@ -2,8 +2,8 @@
 
 namespace DatingAppAPI.Interaces
 {
-    public interface ITokenService
-    {
-        string CreateToken(AppUser user);
-    }
+	public interface ITokenService
+	{
+		Task<string> CreateToken(AppUser user);
+	}
 }
